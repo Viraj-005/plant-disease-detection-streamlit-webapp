@@ -1,0 +1,7 @@
+streamlit==1.49.1
+pandas==2.3.2
+pillow==11.3.0
+python-multipart==0.0.20
+plotly==6.3.0
+tensorflow==2.20.0
+numpy==2.3.2
