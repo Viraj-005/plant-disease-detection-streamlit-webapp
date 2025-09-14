@@ -161,7 +161,7 @@ def load_model():
     """Load the trained model with caching"""
     try:
         # Update this path to your model location
-        model_path = "./plant_disease_model.keras"
+        model_path = "plant_disease_model.keras"
         model = tf.keras.models.load_model(model_path)
         return model
     except Exception as e:
