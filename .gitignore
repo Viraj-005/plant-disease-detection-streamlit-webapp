@@ -12,14 +12,6 @@ venv/
 # Environment variables
 .env
 
-# Model files (large files should not be pushed to git)
-*.keras
-*.h5
-*.hdf5
-*.ckpt
-*.pth
-*.pt
-
 # Logs
 *.log
 
